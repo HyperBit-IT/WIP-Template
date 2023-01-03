@@ -28,7 +28,7 @@ export default function Home() {
                                 <div
                                     className="relative overflow-hidden rounded-full py-1.5 px-4 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                   <span className="text-gray-600">
-                  We created a form to collect your opinions {' '}
+                  We have created a form to collect your opinions {' '}
                       <a href="https://hjk8niegiky.typeform.com/to/OTOhUmqy" className="font-semibold text-indigo-600">
                       <span className="absolute inset-0" aria-hidden="true"/>
                       Press Here <span aria-hidden="true">&rarr;</span>
