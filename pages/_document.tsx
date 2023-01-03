@@ -10,7 +10,7 @@ export default function Document() {
                 <meta name="description" content="HyperBit S.R.L.S. Website"/>
                 <meta name="Keywords" content="HyperBit S.R.L.S., HyperBit, Trentino, Informatica, Consulenza Informatica"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <script defer data-domain="hyperbit.it" src="https://plausible.io/js/script.js"></script>
+                <script defer data-domain="panel.hyperbit.it" src="https://plausible.io/js/script.js"></script>
             </Head>
             <body>
             <Main/>
