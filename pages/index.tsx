@@ -38,13 +38,10 @@ export default function Home() {
                             </div>
                             <div>
                                 <h1 className="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
-                                    Work in progress
+                                    🛠 Work in progress 🛠
                                 </h1>
                                 <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
-                                    Hi! We are currently working on building this software
-                                </p>
-                                <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
-                                    Sorry :c
+                                    Hi! We are currently working on building better software for you! We will be back soon!
                                 </p>
                             </div>
                             <div
